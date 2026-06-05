@@ -1,2 +1,14 @@
-# stone-paper-scissors
-A Python command-line Stone, Paper, Scissors tournament game where you battle the computer. Features input validation, randomized moves, score tracking, and round-by-round play until one side reaches the target score. Beginner-friendly project to practice loops, conditionals, and user input.
+# 🎮 Stone, Paper, Scissors Tournament
+
+A fun Python-based **Stone, Paper, Scissors** game where you can play against the computer in a tournament format. The first player to reach the target score wins the trophy!
+
+---
+
+## 📌 Features
+- Interactive command-line interface
+- Input validation for tournament rules and player choices
+- Randomized computer moves
+- Score tracking across multiple rounds
+- Tournament-style gameplay (first to reach target points wins)
+
+---
